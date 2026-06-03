@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <a href="https://muckrack.com/matildakdavies" target="_blank"><img align="center" src="https://img.shields.io/badge/Muck Rack-254251?style=for-the-badge&logo=muckrack&logoColor=white" alt="@Anton-dev3306"  /></a>
+  <a href="https://muckrack.com/matildakdavies" target="_blank"><img align="center" src="https://img.shields.io/badge/Muck Rack-254251?style=for-the-badge&logo=muckrack&logoColor=white" alt="@matildadavies"  /></a>
 <a href="https://www.linkedin.com/in/matildadavies/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@matildadavies"/></a>
 <a href = "mailto:matilda.davies@thetimes.co.uk" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@matildadavies"  /></a>
 <a href = "https://x.com/matildakdavies" target="_blank"><img align="center" src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="@matildadavies"  /></a>
@@ -57,3 +57,8 @@
 - <a href="https://www.thetimes.com/uk/healthcare/article/meta-user-data-collection-facebook-instagram-whatsapp-9klqhzlq9"><i>Every scary thing Meta knows about me — and you</a></i> – The Times, 16 March 2024
 
 <h4>Elsewhere</h4>
+
+- <a href="https://www.instagram.com/p/DWx_Pl1gtu3/"><i>Is YouTube worse for kids' brains than TV?</a></i> – The Times (Instagram), 29 March 2026
+- <a href="https://www.youtube.com/watch?v=mWCdBKGb_Us"><i>The teenage hackers bringing British industry to its knees</a></i> – The Times (YouTube), 27 October 2025
+- <a href="https://www.youtube.com/watch?v=ntO7rJ8Gc8o"><i>How to create a Datawrapper workflow that upskills the whole newsroom</a></i> – DataWrapper Unwrapped conference (YouTube), 12 August 2024
+- <a href="https://www.bbc.co.uk/sounds/play/p0hmk4qp"><i>Every scary thing Meta knows about you</a></i> – The Story podcast (BBC Sounds), 2 April 2024
