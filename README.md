@@ -48,7 +48,7 @@
 </table>
 
 <hr>
-<h2 align="center" >🗞️ My projects </h2>
+<h2 align="center" >🗞️ Published projects </h2>
 
 - <a href="https://www.thetimes.com/uk/education/article/youtube-videos-kids-television-xcxkv0cvx"><i>Think screens are making your child ratty? You may be right</a></i> – The Times, 29 March 2026
 - <a href="https://www.thetimes.com/money/family-finances/article/student-loan-repayments-data-analysis-gwhm6jcn7"><i>My student loan is a curse and the data proves it</a></i> – The Times, 25 January 2026
